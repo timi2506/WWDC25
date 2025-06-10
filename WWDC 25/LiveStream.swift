@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import WebKit
 
 struct LiveStreamView: View {
     @State var selection = "youtube"
